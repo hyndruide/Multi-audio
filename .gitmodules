@@ -1,0 +1,6 @@
+[submodule "json"]
+	path = json
+	url = https://github.com/thestk/rtaudio.git
+[submodule "rtaudio"]
+	path = rtaudio
+	url = https://github.com/thestk/rtaudio.git
